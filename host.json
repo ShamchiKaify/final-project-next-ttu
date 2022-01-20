@@ -1,6 +1,5 @@
 {
     "url_dev": "http://localhost:8082",
-    "url": "https://spring-boot-newspaper-archive.herokuapp.com",
     "auth": "http://localhost:8081",
     "prescription": "http://localhost:8081",
     "orient": "http://localhost:8083"
